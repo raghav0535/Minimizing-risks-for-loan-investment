@@ -12,4 +12,5 @@ To create a Machine learning program for finding out the candidates who are more
 3.feature importances <br />
 4.Model adjustment
 
+![image](https://user-images.githubusercontent.com/51155947/128470776-1d85ac11-41ec-4c05-8192-3240126ff9f1.png)
 
